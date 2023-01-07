@@ -1,4 +1,4 @@
-# TEST Project
+# Title Project
 
 Simple overview of use/purpose.
 
